@@ -42,8 +42,3 @@ data:
 
 Each directory is organized to keep the code modular and maintainable. The `utils/` folder contains critical functions that handle scraping and file downloading, while the `logs/` directory gathers runtime logs for monitoring.
 
-## Final Notes
-
-This modern README uses a clear structure and straightforward language, making it easier for experienced developers to quickly understand the project’s capabilities. The code has been thoroughly checked across the repository to extract these key insights.
-
-Happy Coding!
