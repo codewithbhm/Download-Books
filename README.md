@@ -117,5 +117,4 @@ Feel free to submit issues or pull requests to improve the functionality or add 
 
 This project is provided as-is for educational purposes. Please respect the terms of service of the websites being scraped.
 
-**Note**: Always verify that you have permission to scrape websites and respect their robots.txt files and terms of service[5][6].
-
+**Note**: Always verify that you have permission to scrape websites and respect their robots.txt files and terms of service. 
